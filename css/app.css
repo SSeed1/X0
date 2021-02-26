@@ -1,0 +1,11 @@
+#field div {
+  height: 50px;
+  width: 50px;
+  border: 2px solid black;
+  float: left;
+  font-size: 45px;
+  text-align: center;
+}
+#field {
+  width: 162px;
+}
